@@ -52,7 +52,7 @@ To run the application locally, follow these steps:
    npm start
    ```
 
-3. **Frontend setup**
+3. **Frontend setup to run the developement server**
 
    - Navigate to the `frontend` directory.
 
