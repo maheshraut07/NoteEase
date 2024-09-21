@@ -29,7 +29,7 @@ To run the application locally, follow these steps:
 
    ```bash
    git clone https://github.com/maheshraut07/NoteEase.git
-   cd JobPortal
+   cd NoteEase
    ```
 
 2. **Backend setup**
@@ -64,16 +64,15 @@ To run the application locally, follow these steps:
 
    ```bash
    npm install
-
-   - Create a `.env` file in the `backend` folder and add the following environment variables:
    ```
 
+   - Create a `.env` file in the `backend` folder and add 
+   the following environment variables:
+
+   ```bash
    MONGODB_URL=your_mongo_database_uri
    PORT=5000
    VITE_REACT_APP_BACKEND_URL = "http://localhost:4000"x  
-
-   ```
-
 
    ```
 
